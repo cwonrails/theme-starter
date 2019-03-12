@@ -8,6 +8,6 @@ module.exports = {
           // 'gatsby-theme-x',
         ]
       }
-    },
-  ],
+    }
+  ]
 }

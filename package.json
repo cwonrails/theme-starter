@@ -8,13 +8,20 @@
     "gatsby-plugin-compile-es6-packages": "^1.0.6"
   },
   "devDependencies": {
-    "gatsby": "^2.1.13",
-    "react": "^16.8.2",
-    "react-dom": "^16.8.2"
+    "eslint": "^5.15.1",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "gatsby": "^2.1.30",
+    "prettier": "^1.16.4",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
   },
   "peerDependencies": {
-    "gatsby": "^2.1.13",
-    "react": "^16.8.2",
-    "react-dom": "^16.8.2"
+    "gatsby": "^2.1.30",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
   }
 }
